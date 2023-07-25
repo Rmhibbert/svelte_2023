@@ -1,0 +1,26 @@
+
+
+#pages{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: bisque;
+}
+
+#navlist{
+    float: left;
+}
+
+#navlist a{
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+#navlist a:hover{
+    background-color: aqua;
+}
