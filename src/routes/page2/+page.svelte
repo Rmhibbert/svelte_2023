@@ -1,4 +1,3 @@
-
 <script>
     import Header from '$lib/Header.svelte';
     import Footer from '$lib/Footer.svelte';
@@ -8,6 +7,4 @@
 
 <Header/>
 
-
-
-<Footer/>
+<h1>Page 2</h1>
