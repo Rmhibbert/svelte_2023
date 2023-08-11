@@ -1,0 +1,8 @@
+div:nth-of-type(2) + div{
+    background-color: green;
+}
+
+div:nth-of-type(2) ~ div:hover{
+    background-color: red;
+}
+
